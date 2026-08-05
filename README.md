@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0100-same-tree) |
+| [3310-remove-methods-from-project](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0100-same-tree) |
+| [3310-remove-methods-from-project](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -31,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
