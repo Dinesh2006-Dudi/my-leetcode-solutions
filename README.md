@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0611-valid-triangle-number) |
+| [0643-maximum-average-subarray-i](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0075-sort-colors) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
