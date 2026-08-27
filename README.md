@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
