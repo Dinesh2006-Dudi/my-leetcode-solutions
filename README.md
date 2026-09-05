@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [3904-smallest-stable-index-ii](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Simulation
 |  |
 | ------- |
