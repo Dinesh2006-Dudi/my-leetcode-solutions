@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/3870-count-commas-in-range) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
@@ -265,4 +267,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0258-add-digits) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
