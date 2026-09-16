@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0611-valid-triangle-number](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0567-permutation-in-string) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0389-find-the-difference) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Prefix Sum
