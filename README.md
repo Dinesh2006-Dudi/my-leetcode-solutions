@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1486-xor-operation-in-an-array](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0389-find-the-difference) |
+| [1486-xor-operation-in-an-array](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Prefix Sum
