@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0728-self-dividing-numbers) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
