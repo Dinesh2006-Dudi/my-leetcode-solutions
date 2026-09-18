@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1408-string-matching-in-an-array](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0771-jewels-and-stones](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
