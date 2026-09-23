@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -344,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0191-number-of-1-bits) |
 ## Number Theory
@@ -381,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1390-four-divisors](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1390-four-divisors) |
 | [1952-three-divisors](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1952-three-divisors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
