@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0169-majority-element) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Divide and Conquer
