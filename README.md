@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0258-add-digits) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1672-richest-customer-wealth) |
