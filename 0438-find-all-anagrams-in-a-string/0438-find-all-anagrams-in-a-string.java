@@ -1,39 +1,44 @@
 class Solution {
     public List<Integer> findAnagrams(String s, String p) {
-        List<Integer> res=new ArrayList<>();
+        
+        ArrayList<Integer> res=new ArrayList<>();
+         if (s == null || p == null || s.length() < p.length()) {
+            return res; 
+        }
+        
+        int a=s.length();
+        int b=p.length();
 
-        if(s.length()<p.length())
-        return res;
+        int pfreq[]=new int[26];
+        int widfreq[]=new int[26];
 
-        int f1[]= new int[26];
-        int f2[]=new int[26];
-        for(int i=0;i<p.length();i++)
+        for(int i=0;i<b;i++)
         {
-            f1[p.charAt(i) -'a']++;
-            f2[s.charAt(i) - 'a']++;
+            pfreq[p.charAt(i)-'a']++;
         }
 
-        if(same(f1,f2)) res.add(0);
-
-
-        for(int right=p.length();right<s.length();right++)
+        for(int i=0;i<b;i++)
         {
-            int left=right-p.length();
-            f2[s.charAt(right) - 'a']++;
-            f2[s.charAt(left) - 'a']--;
-
-            if(same(f1,f2)) res.add(left+1);
-
+            widfreq[s.charAt(i)-'a']++;
         }
-        return res;
-    }
-    boolean same(int []a ,int []b)
-    {
-        for(int i=0;i<26;i++)
+
+        if(Arrays.equals(pfreq,widfreq))
         {
-            if(a[i]!=b[i]) return false;
+                res.add(0);
         }
-        return true;
+
+            for(int i=b;i<a;i++)
+            {
+                widfreq[s.charAt(i)-'a']++;
+
+                widfreq[s.charAt(i-b)-'a']--;
+
+            if(Arrays.equals(pfreq,widfreq))
+            {
+                res.add(i-b+1);
+            }
+            }
+            return res;
     }
 
 }
