@@ -10,24 +10,18 @@ class Solution {
         Set<Integer> s2=new HashSet<>();        
         for(int i:nums2)
         {
-            s2.add(i);
-        }
-
-        Set<Integer> main=new HashSet<>();
-
-        for(Integer val:s1)
-        {
-            if(s2.contains(val))
+            if(s1.contains(i))
             {
-                main.add(val);
+                s2.add(i);
             }
         }
 
-        int [] arr=new int[main.size()];
+
+        int [] arr=new int[s2.size()];
         int j=0;
-        for(Integer val:main)
+        for(int num:s2)
         {
-            arr[j]=val.intValue();
+            arr[j]=num;
             j++;
         }
         return arr;
