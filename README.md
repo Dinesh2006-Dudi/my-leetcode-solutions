@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0867-transpose-matrix](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0611-valid-triangle-number) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
 |  |
@@ -464,9 +467,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0769-max-chunks-to-make-sorted](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0769-max-chunks-to-make-sorted](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0769-max-chunks-to-make-sorted) |
 <!---LeetCode Topics End-->
