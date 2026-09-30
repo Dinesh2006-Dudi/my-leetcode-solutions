@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1572-matrix-diagonal-sum](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1672-richest-customer-wealth](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Divide and Conquer
