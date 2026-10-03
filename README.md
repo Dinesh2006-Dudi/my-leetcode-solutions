@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2544-alternating-digit-sum](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/2544-alternating-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
