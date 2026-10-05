@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0771-jewels-and-stones) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0611-valid-triangle-number) |
+| [0678-valid-parenthesis-string](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
@@ -502,12 +505,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
