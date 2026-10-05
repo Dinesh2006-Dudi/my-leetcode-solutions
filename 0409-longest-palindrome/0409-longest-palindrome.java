@@ -3,18 +3,22 @@ class Solution {
         
 
         HashSet<Character> seen=new HashSet<>();
-        int len=0;
+
+        int maxlen=0;
+
+        int n=s.length();
+
         for(char ch:s.toCharArray())
         {
             if(seen.contains(ch))
             {
                 seen.remove(ch);
-                len+=2;
+                maxlen+=2;
             }
             else{
                 seen.add(ch);
             }
         }
-        return seen.isEmpty()?len:len+1;
+        return seen.isEmpty()?maxlen:maxlen+1;
     }
 }
