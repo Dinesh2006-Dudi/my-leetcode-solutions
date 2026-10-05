@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0168-excel-sheet-column-title](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -500,11 +501,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
