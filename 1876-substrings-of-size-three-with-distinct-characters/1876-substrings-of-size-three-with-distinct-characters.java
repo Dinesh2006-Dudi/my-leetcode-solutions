@@ -1,29 +1,25 @@
 class Solution {
     public int countGoodSubstrings(String s) {
 
-        List<String> allstr=new ArrayList<>(); 
-        int k=3;
-        int unique_cnt=0;
+        List<String> allstr=new ArrayList<>();
+       int k=3;
 
-        if(s.length()<k)
-        return 0;
+       int n=s.length();
+        int uni_cnt=0;
 
-        for(int i=0;i<=s.length()-k;i++)
-        {
+       for(int i=0;i<=n-k;i++)
+       {
             String sub=s.substring(i,i+k);
             allstr.add(sub);
 
+            if(sub.charAt(0)!=sub.charAt(1) && sub.charAt(1)!=sub.charAt(2)&&
+            sub.charAt(0)!=sub.charAt(2))
+            {
+                uni_cnt++;
+            }
 
-            if(sub.charAt(0)!=sub.charAt(1) && sub.charAt(1)!=sub.charAt(2)
-              && sub.charAt(0)!=sub.charAt(2))
-        {
-
-              unique_cnt++;
-        }
-    }
-
-    return unique_cnt;
-
+       }
+       return uni_cnt;
         
       
     }
