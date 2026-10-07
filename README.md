@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0151-reverse-words-in-a-string](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0242-valid-anagram) |
