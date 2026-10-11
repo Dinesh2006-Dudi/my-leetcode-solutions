@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1929-concatenation-of-array](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/1952-three-divisors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Two Pointers
 |  |
