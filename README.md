@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0093-restore-ip-addresses](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0151-reverse-words-in-a-string](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0205-isomorphic-strings) |
@@ -552,4 +553,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Backtracking
+|  |
+| ------- |
+| [0093-restore-ip-addresses](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 <!---LeetCode Topics End-->
