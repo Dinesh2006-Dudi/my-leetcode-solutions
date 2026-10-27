@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0463-island-perimeter](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Array
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -565,4 +569,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0093-restore-ip-addresses) |
+| [0257-binary-tree-paths](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
