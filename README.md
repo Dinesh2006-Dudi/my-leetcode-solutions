@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
