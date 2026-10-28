@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0543-diameter-of-binary-tree](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/3310-remove-methods-from-project) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Array
@@ -574,4 +577,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0257-binary-tree-paths](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0257-binary-tree-paths) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Dinesh2006-Dudi/my-leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
